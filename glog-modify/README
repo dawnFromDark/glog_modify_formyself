@@ -1,5 +1,1 @@
-This repository contains a C++ implementation of the Google logging
-module.  Documentation for the implementation is in doc/.
-
-See INSTALL for (generic) installation instructions for C++: basically
-   ./autogen.sh && ./configure && make && make install
+1、这个是GLOG开源库改过来的，改了底层的一部分源代码，方便自己用
